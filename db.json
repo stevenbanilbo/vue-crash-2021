@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Haircut",
+      "day": "10am",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Drink Water",
+      "day": "8am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Basketball",
+      "day": "3pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Dinner",
+      "day": "7pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
